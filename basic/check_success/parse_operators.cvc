@@ -1,10 +1,11 @@
 void foo() {
     int a;
     bool b;
+    float c;
     a = 1 + 2;
     a = a - 1;
     a = a * 45;
-    a = a / 9;
+    c = a / 9;
     a = a % 4;
     b = a < 1;
     b = a > 2;
