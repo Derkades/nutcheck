@@ -2,9 +2,8 @@ int foo()
 {
   return 0;
 }
-int foo = 0;
-int bar = 0;
-int bar()
+
+void bar()
 {
-  return 0;
+  int foo = 0;
 }
