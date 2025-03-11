@@ -1,0 +1,5 @@
+int foo()
+{
+  int foo = 5;
+  return 0;
+}

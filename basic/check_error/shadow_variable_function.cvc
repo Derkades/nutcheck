@@ -1,9 +1,0 @@
-int foo()
-{
-  return 0;
-}
-
-void bar()
-{
-  int foo = 0;
-}
