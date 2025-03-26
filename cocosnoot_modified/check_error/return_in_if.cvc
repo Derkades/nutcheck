@@ -1,7 +1,7 @@
+// Should ellicit an error, as not all paths lead to a valid return.
+
 export int main() {
     if (true) {
         return 1;
-    } else {
-        return 0;
     }
 }
